@@ -43,6 +43,6 @@ public class Sorting {
     public static void main(String args[]) {
         int arr[] = {5,4,1,3,2,6};
         selctionSort(arr);
-        //print(arr);
+        print(arr);
     }
 }
